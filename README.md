@@ -8,9 +8,10 @@ The blog makes use of JumpStart Lab's Curiculum to develop a fully functional Ru
 http://tutorials.jumpstartlab.com/projects/blogger.html
 
 The app is developed in Rails in the MVC framework and uses an ActiveRecord database schema to manage content such as 
-- articles
-- tags
-- and comments
+- Articles
+- Tags
+- Comments
+- User data
 
 Sorcery is used for secure user authenticaiton 
 
