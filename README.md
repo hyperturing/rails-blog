@@ -1,8 +1,5 @@
 # rails-blog
 
-** Ruby version
-2.6.3
-
 A simple blog application created using Rails as part of the TOP Curiculum
 
 The live version of this blog can be viewed at: 
@@ -20,3 +17,6 @@ The app is developed in Rails in the MVC framework and uses an ActiveRecord data
 Sorcery is used for secure user authenticaiton 
 
 Feel free to use the app as written as inspiration for your own web development projects
+
+** Ruby version**
+*2.6.3
