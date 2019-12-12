@@ -15,4 +15,7 @@ The app is developed in Rails in the MVC framework and uses an ActiveRecord data
 
 Sorcery is used for secure user authenticaiton 
 
+* Ruby version
+2.6.3
+
 Feel free to use the app as written as inspiration for your own web development projects
