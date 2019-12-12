@@ -19,4 +19,5 @@ Sorcery is used for secure user authenticaiton
 Feel free to use the app as written as inspiration for your own web development projects
 
 ** Ruby version**
+
 *2.6.3
